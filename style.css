@@ -1,0 +1,29 @@
+@charset "utf-8";
+.container {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+header h1 {
+	color: #EC5B5D;
+	text-align: center;
+	font-size: 41px;
+}
+article h2 {
+	background-color: #9F73F9;
+	border-radius: 7px;
+	height: 35px;
+	padding-left: 10px;
+	line-height: 37px;
+}
+
+nav {
+}
+nav a:link  {
+	color: #469BCB;
+	text-decoration: none;
+}
+nav a:hover {
+	color: #64D54F;
+	font-weight: bold;
+}
